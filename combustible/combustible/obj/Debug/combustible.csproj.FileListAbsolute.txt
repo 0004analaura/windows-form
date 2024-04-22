@@ -1,0 +1,10 @@
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\bin\Debug\combustible.exe.config
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\bin\Debug\combustible.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\bin\Debug\combustible.pdb
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\obj\Debug\combustible.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\obj\Debug\combustible.Form1.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\obj\Debug\combustible.Properties.Resources.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\obj\Debug\combustible.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\obj\Debug\combustible.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\obj\Debug\combustible.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\combustible\combustible\obj\Debug\combustible.pdb

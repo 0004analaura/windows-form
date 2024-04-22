@@ -1,0 +1,10 @@
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\bin\Debug\Calculadora de viajes.exe.config
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\bin\Debug\Calculadora de viajes.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\bin\Debug\Calculadora de viajes.pdb
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\obj\Debug\Calculadora de viajes.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\obj\Debug\Calculadora_de_viajes.Form1.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\obj\Debug\Calculadora_de_viajes.Properties.Resources.resources
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\obj\Debug\Calculadora de viajes.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\obj\Debug\Calculadora de viajes.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\obj\Debug\Calculadora de viajes.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\TAREA FORMS\Calculadora de viajes\Calculadora de viajes\obj\Debug\Calculadora de viajes.pdb
