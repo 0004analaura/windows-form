@@ -29,8 +29,9 @@ namespace Calculadora_de_viajes
 
 
             double calculareltiempo = origen / velocidad;
+            
+            MessageBox.Show("hola el tiempo estimado de viaje es " + calculareltiempo + " horas");
 
-            textBox1.Text = calculareltiempo.ToString();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -41,6 +42,11 @@ namespace Calculadora_de_viajes
         private void textvelocidad_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+          
         }
     }
 }
